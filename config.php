@@ -1,5 +1,5 @@
 <?php
-
+//Een snelle comment om de github commit uit te proberen 
 return [
     'database' => [
             'host'=>'localhost',
